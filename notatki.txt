@@ -2,3 +2,4 @@ bajo jajo
 druga linia
 trzecia linia
 zmian
+notatka
