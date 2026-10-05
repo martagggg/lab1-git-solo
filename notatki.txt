@@ -3,3 +3,4 @@ druga linia
 trzecia linia
 zmian
 notatka
+zmiana
