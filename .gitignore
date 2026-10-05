@@ -3,3 +3,4 @@ node_modules/
 #pliki or danym rozszerzeniu
 *.env
 *.log
+!wazne.log
